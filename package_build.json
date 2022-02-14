@@ -96,6 +96,7 @@
         "px2rem-loader-stzhang": "^0.0.7",
         "qrcode-terminal": "^0.12.0",
         "quick-local-ip-stzhang": "^1.0.3",
+        "regenerator-runtime": "^0.13.4",
         "sass-loader": "^8.0.2",
         "semver": "^7.3.2",
         "shelljs": "^0.8.4",
