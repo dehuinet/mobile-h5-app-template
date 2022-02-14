@@ -11,8 +11,8 @@
 5. 点击【在`settings.json`中编辑】，打开`settings.json`文件
 6. 修改配置项`Minxing.vue-seed-origin`的值为[github@dehuinet/mobile-h5-app-template](https://github.com/dehuinet/mobile-h5-app-template/)
 7. 重启`vscode`
-8. 等待由【敏行`vscode`开发者插件】弹出的【工程模板-升级】的提示气泡，并点击【是】按钮。
-9. 再等待【敏行`vscode`开发者插件】弹出【升级成功】的提示气泡。
+8. 等待由【敏行`vscode`开发者插件】从右下角弹出的【工程模板-升级】提示气泡，并点击【是】按钮。
+9. 再等待【敏行`vscode`开发者插件】从右下角弹出的【升级成功】提示气泡。
 10. 敲击`F1`，录入`minxing`关键字，选择【新建`vue`项目】，输入【项目名】，点击【创建 vue 种子项目模板】按钮。
 11. 然后，新版本的【敏行`H5`插件工程】就落地了。
 12. 在插件工程内，字符串全局替换`mobile-h5-app-template`为你的【工程名】字符串。
