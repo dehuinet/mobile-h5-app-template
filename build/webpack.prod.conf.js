@@ -178,7 +178,7 @@ module.exports = cliEnv => { // eslint-disable-line max-lines-per-function
                     versionCode: MxBaler.ARGS_SHORTCUT.versionCode,
                     versionName: MxBaler.ARGS_SHORTCUT.versionName,
                     assetsRoot: config.build.assetsRoot,
-                    features: '-git-commit',
+                    features: '-git-commit,-increase-version',
                     projectName: 'mobile-h5-app-template',
                     isLogger: false,
                     isDevTools: false
