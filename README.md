@@ -49,7 +49,7 @@ set DISTURL=https://npm.taobao.org/dist
 进入到项目工程根目录和执行
 
 ```bat
-npm i -g --registry=http://npm.dehuinet.com:8100
+npm i --registry=http://npm.dehuinet.com:8100
 ```
 
 ## 以开发模式启动工程
